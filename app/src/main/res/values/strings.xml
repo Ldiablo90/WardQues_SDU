@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WardQues_SDU</string>
+    <string name="page_ques1">문제1</string>
+    <string name="page_ques2">문제2</string>
+    <string name="page_ques3">문제3</string>
+</resources>
